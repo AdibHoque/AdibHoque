@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adib Hoque</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adibhoque&label=Profile%20views&color=0e75b6&style=flat" alt="adibhoque" /> </p>
+<h1 align="center">Hi 👋, 
+I'm Adib Hoque</h1>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
