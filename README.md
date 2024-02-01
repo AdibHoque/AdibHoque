@@ -53,6 +53,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibHoque&theme=react" alt="profile stats"/>
   <img width=390 height=155 src="https://streak-stats.demolab.com/?user=Adibhoque&theme=react&border_radius=10.0" alt="streak stats"/>
   <img width=390 height=155 src="https://github-readme-stats.vercel.app/api?username=adibhoque&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
