@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **HTML, CSS, JavaScript**
+🌱 I’m currently learning **ReactJS**
 
 📫 How to reach me **adibhoque04@gmail.com**
 
